@@ -1,0 +1,21 @@
+.block {
+    color: white;
+    background-color: black;
+    height: 200px;
+}
+
+.block1 {
+    background-color: lightgray;
+    height: 300px;
+}
+
+.block2 {
+    color: white;
+    background-color: black;
+    height: 100px;
+}
+
+.block3 {
+    background-color: lightgray;
+    height: 400px;
+}
